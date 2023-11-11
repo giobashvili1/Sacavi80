@@ -17,7 +17,7 @@ h3{
 }
 .header{
     display: flex;
-    margin-left: 230px;
+    justify-content: center;
    
 }
 .box1{
